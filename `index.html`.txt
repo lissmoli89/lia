@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lia Craft Design</title>
+  <meta name="description" content="Lia Craft Design (2013–2018) empowered single mothers in Colombia by providing materials, training, and online sales so they could work from home and earn fair pay.">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #fdfdfd; color: #333; }
+    header { background: #0f172a; color: #fff; padding: 10px 20px; }
+    header h1 { margin: 0; font-size: 24px; }
+    nav a { color: #fff; margin-right: 15px; text-decoration: none; }
+    main { max-width: 900px; margin: auto; padding: 20px; }
+    h2 { border-bottom: 2px solid #eee; padding-bottom: 5px; }
+    .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; }
+    .gallery img { width: 100%; border-radius: 4px; }
+    .metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 20px 0; }
+    .metric { background: #f4f4f4; padding: 10px; border-radius: 4px; text-align: center; }
+    footer { background: #0f172a; color: #fff; text-align: center; padding: 10px; margin-top: 20px; }
+    .btn { display: inline-block; background: #0f172a; color: #fff; padding: 10px 15px; border-radius: 4px; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Lia Craft Design</h1>
+    <nav>
+      <a href="#overview">Overview</a>
+      <a href="#impact">Impact</a>
+      <a href="#photos">Photos</a>
+      <a href="#brochure">Brochure</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="overview">
+      <h2>Overview</h2>
+      <p>Lia Craft Design was a nonprofit founded in 2013 to create economic opportunities for single mothers in Colombia facing barriers to employment due to limited education and childcare challenges. We provided raw materials, training, and online sales channels so they could work from home and earn fair pay while caring for their children.</p>
+    </section>
+
+    <section id="impact">
+      <h2>Five-Year Impact</h2>
+      <div class="metrics">
+        <div class="metric"><strong>85</strong><br>Mothers supported</div>
+        <div class="metric"><strong>1,200</strong><br>Products shipped</div>
+        <div class="metric"><strong>38</strong><br>Workshops delivered</div>
+        <div class="metric"><strong>42%</strong><br>Avg. income uplift</div>
+      </div>
+    </section>
+
+    <section id="photos">
+      <h2>Photos</h2>
+      <div class="gallery">
+        <img src="assets/img/cover.jpg" alt="Handcrafted textiles by Lia artisans">
+        <img src="assets/img/gallery-1.jpg" alt="Finished handcrafted products">
+        <img src="assets/img/gallery-2.jpg" alt="Mothers receiving materials and training">
+      </div>
+    </section>
+
+    <section id="brochure">
+      <h2>Brochure</h2>
+      <p><a class="btn" href="assets/brochure.pdf" download>Download Brochure (PDF)</a></p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:you@example.com">you@example.com</a></p>
+      <p>Instagram/Facebook: @liacraftdesign</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© Lia Craft Design — Impact Summary</p>
+  </footer>
+</body>
+</html>
