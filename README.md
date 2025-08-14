@@ -32,7 +32,7 @@ We welcome help! Please open an issue or contact us to get involved.
 
 ## Contact
 
-Email: your-email@example.com
+Email: Lisbethmolinaro@gmail.com 
 
 ## License
 
